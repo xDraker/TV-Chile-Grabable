@@ -11,7 +11,7 @@ http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:-1 ,TVN HD [VTR]
 http://live1.cl.cdn.lla.vtrplay.com:80/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 ,MEGA
-http://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/f8083525137e4dae9ab4b233e8528f37/manifest/f624fec49dadc88894ebeff1d974eab019af7757/53d2c1a32640614e62a0e000/436bff76-957a-4563-8f49-3bda64a5f189/1.m3u8
+https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?uid=cqL7GT9JCnGRyqXE7mZbdYOYIz5P63h3&sid=IC9nUIImT0cKfsu6Kr1Fyz5RHhexVe1A&pid=oOaEDWLDjceI1R47avPaC1dIFk4b9Jz4&an=screen&at=web-app&av=v5.2.435&ref=https%3A%2F%2Fwww.mega.cl%2F&res=664x374&without_cookies=false&listenerid=&dnt=true&access_token=5k02cT2UBc7lmKGBnWDkqKetqmTVLGDfOq5dCeLczRp3tcKvOFsnYBfFFdAiT92gOqMbxoqAYXi&adInsertionSessionId=7638c358-6596-4f81-9c82-ee49a5b817be
 #EXTINF:-1 ,MEGA PLUS
 http://extremo.dyndns.ws:25461/live/Alexis/Alexis/16319.rtmp
 #EXTINF:-1 ,Meganoticias
